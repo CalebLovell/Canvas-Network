@@ -2,5 +2,10 @@ canvas {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #eeeeee;
+    background-color: #1f222b;
+    z-index: -1;
+}
+
+h1 {
+    color: white;
 }
